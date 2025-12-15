@@ -1,20 +1,21 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
-    "version": "0.0.1",
+    "title": "Brackets-Theme-F1-1.0.0",
+    "name": "github-dumbnudnuf1-Brackets-Theme-F1-1.0.0",
+    "description": "A Formula 1 Theme for Brackets code Editor",
+    "version": "1.0.0",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
+    "author": "your name (https://github.com/dumbnudnf1/Brackets-Theme-F1-1.0.0)",
     "homepage": "<project web page url or this github repo url if no website available>",
     "engines": {
-        "brackets": ">=2.0.0"
+        "brackets": ">=1.0.0"
     },
-    "categories": "demo",
+    "categories": "theme",
     "keywords": [
-        "phcode", "theme", "demo"
+        "phcode", "theme", "demo", "F1", "dark"
     ],
     "theme": {
-        "file": "my-theme.less",
+        "file": "F1-theme.less",
         "dark": true
     }
 }
+
